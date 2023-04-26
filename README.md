@@ -5,10 +5,15 @@ While holding down CAPS:
 original : mapped to
     
  U : HOME
+ 
  I : UP
+ 
  O : END
+ 
  J : LEFT
+ 
  K : DOWN
+ 
  L : RIGHT
 
 To toggle CAPS on/off, press CAPS while holding WINDOWS key.
