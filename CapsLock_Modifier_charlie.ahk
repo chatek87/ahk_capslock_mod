@@ -66,7 +66,7 @@ CapsLock & LWin:: return
 CapsLock & RWin:: return
 CapsLock & Tab:: return
 CapsLock & Esc:: return
-CapsLock & Space:: return
+;CapsLock & Space:: return
 CapsLock & Enter:: return
 CapsLock & Backspace:: return
 CapsLock & ScrollLock:: return
@@ -89,6 +89,9 @@ CapsLock & u:: Home
 
 CapsLock & o:: End
 
+; Other goodies 
+CapsLock & `;::Send {Delete}
+CapsLock & Space::Send {Backspace}
 
 ; Disable all CapsLock key combinations except those declared above
 CapsLock & `:: return
@@ -126,7 +129,7 @@ CapsLock & h:: return
 ;CapsLock & j:: return
 ;CapsLock & k:: return
 ;CapsLock & l:: return
-CapsLock & `;:: return
+;CapsLock & `;:: return
 CapsLock & ':: return
 CapsLock & z:: return
 CapsLock & x:: return
@@ -177,5 +180,4 @@ ClipboardRestore()
 {
     Clipboard:= OldClipboard
 }
-
 
