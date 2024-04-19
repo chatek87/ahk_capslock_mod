@@ -2,12 +2,12 @@ This autohotkey script changes the functionality of CAPSLOCK, allowing use of JK
 
 While holding down CAPS:
 
-<<<<<<< HEAD
     maps to
-UIO   ->   HOME ^ END
-JKL   ->     <  v  >
-; -> DELETE
-SPACEBAR -> BACKSPACE
+uio       ->   HOME ^ END
+jkl       ->   <    v    >
+;         ->   DELETE
+SPACEBAR  ->   BACKSPACE
+f         ->   ESC
 
 =======
 original : mapped to
@@ -23,7 +23,7 @@ original : mapped to
  K : DOWN
  
  L : RIGHT
->>>>>>> 4caf1231b7dd205f3f98b3f04f27648304c3fc45
+
 
 To toggle CAPS on/off, press CAPS while holding WINDOWS key.
 
