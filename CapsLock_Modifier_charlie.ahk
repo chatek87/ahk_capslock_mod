@@ -92,6 +92,7 @@ CapsLock & o:: End
 ; Other goodies 
 CapsLock & `;::Send {Delete}
 CapsLock & Space::Send {Backspace}
+CapsLock & f::Send {Escape}
 
 ; Disable all CapsLock key combinations except those declared above
 CapsLock & `:: return
@@ -123,7 +124,7 @@ CapsLock & \:: return
 CapsLock & a:: return
 CapsLock & s:: return
 CapsLock & d:: return
-CapsLock & f:: return
+;CapsLock & f:: return
 CapsLock & g:: return
 CapsLock & h:: return
 ;CapsLock & j:: return
