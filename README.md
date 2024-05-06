@@ -7,7 +7,7 @@ uio       ->   HOME ^ END
 jkl       ->   <    v    >
 ;         ->   DELETE
 SPACEBAR  ->   BACKSPACE
-e         ->   ESC
+f       ->   ESC
 
 =======
 original : mapped to
